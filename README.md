@@ -7,8 +7,11 @@ Some of the topics include:
     - [Leveraging the Happiness Advantage](https://www.jordanharbinger.com/shawn-achor-leveraging-the-happiness-advantage/)
   * Investing
     - Reduced Risk/Capital Preservation
-      - ["Holy Grail of Investing"](https://www.forbes.com/sites/forbesmarketplace/2019/03/27/holy-grail-of-investing)
-      - [Video: Ray Dalio breaks down his "Holy Grail"](https://www.youtube.com/watch?v=Nu4lHaSh7D4)
+      - Holy Grail Portfolio 
+        - ["Holy Grail of Investing"](https://www.forbes.com/sites/forbesmarketplace/2019/03/27/holy-grail-of-investing)
+        - [Video: Ray Dalio breaks down his "Holy Grail"](https://www.youtube.com/watch?v=Nu4lHaSh7D4)
+      - All Weather Portfolio
+        - [The Ray Dalio All Weather Portfolio](https://www.youtube.com/watch?v=G45jNggxhyU)
   * Minimalism 
     - [What is a Minimalist Lifestyle? (And What It’s Not)](https://theminimalistvegan.com/what-is-minimalism/)
   * Productivity
