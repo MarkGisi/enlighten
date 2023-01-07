@@ -4,7 +4,9 @@ I put together an eclectic collection of works (articles, books, videos) that of
 
 Some of the topics include:
   * Happiness
+    - [Leveraging the Happiness Advantage](https://www.jordanharbinger.com/shawn-achor-leveraging-the-happiness-advantage/)
   * Investing
   * Minimalism 
   * Productivity
+    - []()
   * Technology
